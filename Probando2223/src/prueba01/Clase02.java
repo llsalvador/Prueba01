@@ -6,6 +6,7 @@ public class Clase02 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Esta es la segunda clase.");
+		System.out.println("Este es la segunda línea de la clase.");
 	}
 
 }
